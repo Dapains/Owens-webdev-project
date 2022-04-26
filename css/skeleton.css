@@ -275,7 +275,7 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 a {
-    color: rgb(17, 134, 36);
+    color: #555555;
 }
 
 a:hover {
@@ -331,8 +331,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
     color: #FFF;
-    background-color: rgba(10, 153, 46, 0.685);
-    border-color: rgba(10, 153, 46, 0.685);
+    background-color: #555555;
+    border-color: #555555;
 }
 
 .button.button-primary:hover,
